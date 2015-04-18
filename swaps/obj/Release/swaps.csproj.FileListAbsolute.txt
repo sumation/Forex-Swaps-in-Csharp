@@ -1,0 +1,9 @@
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\bin\Release\swaps.exe.config
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\bin\Release\swaps.exe
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\bin\Release\swaps.pdb
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.Form1.resources
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.Properties.Resources.resources
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.csproj.GenerateResource.Cache
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.exe
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.pdb
+C:\Users\Edgar\documents\visual studio 2013\Projects\swaps\swaps\obj\Release\swaps.csprojResolveAssemblyReference.cache
